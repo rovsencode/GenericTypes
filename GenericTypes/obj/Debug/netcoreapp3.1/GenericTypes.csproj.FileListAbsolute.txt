@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\GenericTypes\GenericTypes\bin\Debug\netcoreapp3.1\GenericTypes.exe
+C:\Users\HP\Desktop\GenericTypes\GenericTypes\bin\Debug\netcoreapp3.1\GenericTypes.deps.json
+C:\Users\HP\Desktop\GenericTypes\GenericTypes\bin\Debug\netcoreapp3.1\GenericTypes.runtimeconfig.json
+C:\Users\HP\Desktop\GenericTypes\GenericTypes\bin\Debug\netcoreapp3.1\GenericTypes.runtimeconfig.dev.json
+C:\Users\HP\Desktop\GenericTypes\GenericTypes\bin\Debug\netcoreapp3.1\GenericTypes.dll
+C:\Users\HP\Desktop\GenericTypes\GenericTypes\bin\Debug\netcoreapp3.1\GenericTypes.pdb
+C:\Users\HP\Desktop\GenericTypes\GenericTypes\obj\Debug\netcoreapp3.1\GenericTypes.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\GenericTypes\GenericTypes\obj\Debug\netcoreapp3.1\GenericTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\GenericTypes\GenericTypes\obj\Debug\netcoreapp3.1\GenericTypes.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\GenericTypes\GenericTypes\obj\Debug\netcoreapp3.1\GenericTypes.AssemblyInfo.cs
+C:\Users\HP\Desktop\GenericTypes\GenericTypes\obj\Debug\netcoreapp3.1\GenericTypes.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\GenericTypes\GenericTypes\obj\Debug\netcoreapp3.1\GenericTypes.dll
+C:\Users\HP\Desktop\GenericTypes\GenericTypes\obj\Debug\netcoreapp3.1\GenericTypes.pdb
+C:\Users\HP\Desktop\GenericTypes\GenericTypes\obj\Debug\netcoreapp3.1\GenericTypes.genruntimeconfig.cache
